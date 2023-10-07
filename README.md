@@ -1,4 +1,4 @@
 # little_beatiful_project
 Little and Responsive webpage using for first time some JS Libraries
 |
-Pequeño, bonito y responsiva landing en la que estreno alguna librería de JavaScript nueva. 
+Pequeña, bonita y responsiva landing en la que implemento alguna librería de JavaScript nueva para mí. 
